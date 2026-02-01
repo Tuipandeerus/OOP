@@ -1,3 +1,7 @@
+*.pro.user
+CMakeLists.txt.user
+build/
+
 # Prerequisites
 *.d
 
